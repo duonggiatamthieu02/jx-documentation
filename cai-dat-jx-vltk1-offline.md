@@ -19,7 +19,7 @@
 
 JXLinux 8.x Offline (Võ lâm truyền kỳ 1 - bản PC)
 
-Nguồn: [Hội quán Võ Lầm](https://fb.com/groups/volamquan)
+Nguồn: [Hội quán Võ Lâm](https://fb.com/groups/volamquan)
 
 ## :large_blue_diamond: 2. Yêu cầu hệ thống
 
@@ -56,7 +56,7 @@ Phần mềm và hệ thống
 
 #### :star: 3.2.1 Start server với VMWare
 
-- Mở thư mục `D:\server` và click vào 2 file bên bên dưới để chạy lần lượt các máy ảo. Nếu có hiện thông báo, thì bấm chọn `I move it`
+- Mở thư mục `D:\server` và click vào 2 file bên bên dưới để chạy lần lượt các máy ảo đã download ở `(*2)`. Nếu có hiện thông báo, thì bấm chọn `I move it`
 
     - `D:\server\CentOS\CentOS16-EuroFun.vmx`
     - `D:\server\Win\JXWindows-EuroFun.vmx`
@@ -150,17 +150,17 @@ hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy �
     <img width="750" src="./images/install/cai-dat-vltk1-18.png?raw=true">
 </p>
 
-- Lưu ý, nếu game bị đen màn hình thì setup như sau, chuột phải vào file `Game.exe` -> chọn `Properties` -> `Compatibility` -> `16-bit` để chuyển về chê độ 2D
+- Lưu ý, nếu game bị đen màn hình thì setup như sau, chuột phải vào file `Game.exe` -> chọn `Properties` -> `Compatibility` -> `16-bit` để chuyển về chế độ 2D
 <p align="center">
     <img width="750" src="./images/install/cai-dat-vltk1-17.png?raw=true">
 </p>
 
-- Acc login game mặc định: `eurofun|123`
+- Acc login game mặc định - username: `eurofun` | pass: `123` 
 <p align="center">
     <img width="750" src="./images/install/cai-dat-vltk1-19.png?raw=true">
 </p>
 
-- Tạo tài khoản game mới, relogin lại 4 lần sẽ nhận được lệnh bài GM trong hành trang
+- Tạo acc mới ở máy ảo Win, sau đó relogin lại 4 lần sẽ nhận được lệnh bài GM trong hành trang
 <p align="center">
     <img width="750" src="./images/install/cai-dat-vltk1-20.png?raw=true">
 </p>
@@ -182,7 +182,7 @@ App này là để tương tác với Server CentOS như upload, download, thêm
         <img width="750" src="./images/install/cai-dat-vltk1-9.png?raw=true">
     </p>
 
-- Kết nôi OK, nhập đường dẫn chứa source code `/home/jxser/`. Xong.
+- Kết nối OK, nhập đường dẫn chứa source code `/home/jxser/`. Xong.
 
     <p align="center">
         <img width="750" src="./images/install/cai-dat-vltk1-10.png?raw=true">
