@@ -36,7 +36,7 @@ Phần mềm và hệ thống
 
 ## :large_blue_diamond: 3. Download & cài đặt các tài nguyên cần thiết
 
-### 3.1 :small_red_triangle_down: Download
+### :small_red_triangle_down: 3.1 Download
 
 * Pass giải nén nếu có: `https://fb.com/groups/volamquan`
 
