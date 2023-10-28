@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://www.facebook.com/duonggiatamthieu01/" title="JX Dev Community - Đường Gia Tam Thiếu">
-		<img width="200" height="200" margin-right="100%" src="./images/vltk-offline-ico.png?raw=true">
+		<img width="200" height="200" src="./images/vltk-offline-ico.png?raw=true">
 	</a>
 </p>
 
@@ -64,7 +64,7 @@ Phần mềm và hệ thống
 hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy ảo
 
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-1.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-1.png?raw=true">
 </p>
 
 - Cài đặt IP để 2 máy ảo "tâm linh tương thông", làm theo thứ tự theo các bước bên dưới
@@ -72,25 +72,25 @@ hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy �
     - Cài đặt DHCP `192.168.1.0` cho card mạng VMnet8
 
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-2.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-2.png?raw=true">
     </p>
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-3.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-3.png?raw=true">
     </p>
 
     - Add card mạng VMnet8 vào lần lượt máy ảo CentOS và Win, chú ý là nếu PC của bạn 16Gb ram trở lên thì cứ mạnh dạng set `Memory = 8Gb` cho máy CentOS như mình
 
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-4.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-4.png?raw=true">
     </p>
 
 
   - Sau đó, Bấm `nút Start` hoặc `Power on...` để chạy 2 máy ảo, hiện lên như hình bên dưới là coi như thành công 1 nửa
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-5.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-5.png?raw=true">
     </p>
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-6.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-6.png?raw=true">
     </p>
   
   - Test xem 2 máy đã thông chưa, bằng cách ping IP của nhau, các IP này đã được setup mặc định. Nếu bước này test mà 2 PC ko ping được cho nhau thì sẽ không chạy được game.
@@ -98,13 +98,13 @@ hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy �
     - Login vào CentOS bằng username: `root` | pass: `123456`
     - Chạy lệnh `ping 192.168.1.200` và có response các gói tin như hình dưới là OK
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-7.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-7.png?raw=true">
     </p>
 
     - Tương tự như bên windows, bấm `Windows + R` -> gõ `cmd` -> `Enter` để mở Command line 
     - Chạy lệnh `ping 192.168.1.100`, như thế là Xong.
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-8.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-8.png?raw=true">
     </p>
 
 #### :star: 3.2.2 Chạy Server game
@@ -112,27 +112,27 @@ hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy �
 - Vào máy ảo Windows, sau đó bấm chạy theo thứ tự như bên dưới:
 
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-12.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-12.png?raw=true">
 </p>
 
 - sau khi chạy Bước 3, thì bấm chọn nút `(C)` như hình
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-13.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-13.png?raw=true">
 </p>
 
 - Chờ load một lúc, sẽ hiện ra giao diện dòng lệnh của máy linux
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-14.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-14.png?raw=true">
 </p>
 
 - Chuột phải vào tab `EurofunSys`, chọn (N) để tạo thêm 3 tab nữa
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-15.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-15.png?raw=true">
 </p>
 
 - sau đó, mỗi tab sẽ click vào các nút `1 2 3 S1` tương ứng như hình. Xong. 
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-16.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-16.png?raw=true">
 </p>
 
 #### :star: 3.2.3 Cài client game.exe
@@ -142,27 +142,27 @@ hoặc mở `VMWare` lên và chọn như ảnh bên dưới để chạy máy �
 - Sau đó, paste đè vào folder `D:\client\jx1linux-main\client` đã giải nén ở mục `(*3)`, ta được folder game hoàn chỉnh sau
 
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-11.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-11.png?raw=true">
 </p>
 
 - Chạy file `Game.exe` để start game
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-18.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-18.png?raw=true">
 </p>
 
 - Lưu ý, nếu game bị đen màn hình thì setup như sau, chuột phải vào file `Game.exe` -> chọn `Properties` -> `Compatibility` -> `16-bit` để chuyển về chê độ 2D
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-17.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-17.png?raw=true">
 </p>
 
 - Acc login game mặc định: `eurofun|123`
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-19.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-19.png?raw=true">
 </p>
 
 - Tạo tài khoản game mới, relogin lại 4 lần sẽ nhận được lệnh bài GM trong hành trang
 <p align="center">
-    <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-20.png?raw=true">
+    <img width="750" src="./images/install/cai-dat-vltk1-20.png?raw=true">
 </p>
 
 Như vậy, xong bước này là đã có thể chơi game được rồi. Nếu muốn phát triển tính năng, chỉnh sửa lệnh bài này nọ... thì cần xem thêm rất nhiều thứ khác nữa.
@@ -179,12 +179,12 @@ App này là để tương tác với Server CentOS như upload, download, thêm
   ```
   
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-9.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-9.png?raw=true">
     </p>
 
 - Kết nôi OK, nhập đường dẫn chứa source code `/home/jxser/`. Xong.
 
     <p align="center">
-        <img width="650" margin-right="100%" src="./images/install/cai-dat-vltk1-10.png?raw=true">
+        <img width="750" src="./images/install/cai-dat-vltk1-10.png?raw=true">
     </p>
 
