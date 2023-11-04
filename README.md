@@ -160,6 +160,6 @@ Spring and Autumn Q Biography (春秋Q传) [https://cq.xoyo.com/](https://cq.xo
 2. Đã chơi ít nhất một trong các game JX ở mục 5 phía trên (điểm cộng)
 3. Kiến thức cơ bản về ngôn ngữ lập trình Lua
 4. Cài đặt bộ source Game JX - VLTK1 offline ở local - [link hướng dẫn](https://github.com/duonggiatamthieu02/jx-documentation/blob/master/cai-dat-jx-vltk1-offline.md)
-5. Cài đặt môi trường dev JX ở local (tools, editor...)
+5. Cài đặt môi trường dev JX ở local (tools, editor...) - [link hướng dẫn](https://github.com/duonggiatamthieu02/jx-documentation/blob/master/cai-dat-moi-truong-dev-jx.md)
 
-*Đường Gia Tam Thiếu*
+*Tổng hợp bởi Đường Gia Tam Thiếu.*
